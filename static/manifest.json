@@ -1,0 +1,15 @@
+{
+    "name": "DeepL PWA",
+    "short_name": "DeepL PWA",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#69caf8",
+    "theme_color": "#444444",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+          "src": "/static/images/deepl_logo.png",
+          "type": "image/png", "sizes": "512x512"
+        }
+    ]
+}
