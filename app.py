@@ -1,6 +1,6 @@
 import flask, deepl
 
-auth_key = '71a12331-f0d0-d9de-da46-1a6527d7af34:fx'
+auth_key = '' # Add here DeepL API auth key
 translator = deepl.Translator(auth_key)
 
 app = flask.Flask(__name__)
